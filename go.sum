@@ -1,4 +1,6 @@
 github.com/matmoroz/dog v0.0.0-20230507214834-3f8cb9c3b699 h1:MiQzHsa3/uxyG3IM+ybsiUgcXCP6KBQjec7UcQ72VXI=
 github.com/matmoroz/dog v0.0.0-20230507214834-3f8cb9c3b699/go.mod h1:KLR2lo7we6JX2rMFctRUip4mwaPG/FoCa/e3kWO/x+U=
-github.com/matmoroz/puppy v0.0.0-20230507221432-8e08d05a041e h1:gxgXyiRmnLYHMuoI3HpcJvCU4yX4Dnh6Kbk+lW5AAmk=
-github.com/matmoroz/puppy v0.0.0-20230507221432-8e08d05a041e/go.mod h1:RX1t2XO0BfXwTYWrFhB8IkudN3leMc2pEd+VC0LqCU0=
+github.com/matmoroz/puppy v1.1.0 h1:RiVwxD4uswRPSv+2tZhgfJVqDFBXafKtbbsPNKc++Ho=
+github.com/matmoroz/puppy v1.1.0/go.mod h1:RX1t2XO0BfXwTYWrFhB8IkudN3leMc2pEd+VC0LqCU0=
+github.com/matmoroz/puppy v1.2.0 h1:fdlOPSCKdfFwFjUMgLQN2doEZi6Yhu1FHXqzv2PE3YY=
+github.com/matmoroz/puppy v1.2.0/go.mod h1:RX1t2XO0BfXwTYWrFhB8IkudN3leMc2pEd+VC0LqCU0=
